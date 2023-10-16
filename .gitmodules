@@ -1,9 +1,3 @@
 [submodule "themes/ataraxia"]
 	path = themes/ataraxia
 	url = https://github.com/gersonbenavides/ataraxia-zola.git
-[submodule "static/assets"]
-	path = static/assets
-	url = https://github.com/rustdelhi/assets.git
-[submodule "docs/assets"]
-	path = docs/assets
-	url = https://github.com/rustdelhi/assets.git

@@ -30,7 +30,7 @@ hard_link_static = false
     author = "RustDelhi"
 
     # Use a square image (same height as width)
-    avatar = "assets/logo/svg/rustdelhi-logo.svg"
+    avatar = "images/logo/svg/rustdelhi-logo.svg"
 
     # To use a favicon convert your image to https://realfavicongenerator.net/,
     # then download and copy the package to static/images/favicon
