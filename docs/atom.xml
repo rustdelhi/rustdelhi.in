@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>RustDelhi</title>
+    <link href="https://rustdelhi.in/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://rustdelhi.in"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-26T00:00:00+00:00</updated>
+    <id>https://rustdelhi.in/atom.xml</id>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#2</title>
+        <published>2023-08-26T00:00:00+00:00</published>
+        <updated>2023-08-26T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20230826/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20230826/</id>
+        
+        <content type="html">&lt;p&gt;Rust Delhi and FPIndia collaborated to bring you an exciting meetup centered around Concurrency Patterns. The event took place on August 26, 2023, and it was a great opportunity to explore concurrency in Rust and functional programming.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda:&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Introductions&lt;&#x2F;li&gt;
+&lt;li&gt;Overview of Concurrency in Rust by Guinnes Singh&lt;&#x2F;li&gt;
+&lt;li&gt;Smart Pointers by Priyanshu Verma&lt;&#x2F;li&gt;
+&lt;li&gt;Many Ways to Concur by Abhinav Sarkar&lt;&#x2F;li&gt;
+&lt;li&gt;Concurrency in Haskell by Anupam Jain&lt;&#x2F;li&gt;
+&lt;li&gt;Break &#x2F; Networking&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Thank you to all the attendees for making this event a success. For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;295486853&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>rust::delhi</title>
+        <published>2023-06-10T00:00:00+00:00</published>
+        <updated>2023-06-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/blog/20230610/" type="text/html"/>
+        <id>https://rustdelhi.in/blog/20230610/</id>
+        
+        <content type="html">&lt;p&gt;To post blogs on Rustdelhi.in please feel free to create a pull request over &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdelhi&#x2F;rustdelhi.github.io&quot;&gt;github.com&#x2F;rustdelhi&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#1</title>
+        <published>2023-06-10T00:00:00+00:00</published>
+        <updated>2023-06-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20230610/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20230610/</id>
+        
+        <content type="html">&lt;p&gt;Hi folks, Rust Delhi hosted Delhi&#x27;s first Rust meetup on Saturday, June 10, 2023. It was a fantastic event that brought together Rust enthusiasts to share their experiences and discuss the future of the Rust Delhi community.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda:&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Kickstarting Rust Delhi (00:10)&lt;&#x2F;li&gt;
+&lt;li&gt;Introductions, Rust Stories and Why Rust (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;“Rust 101” by Guinnes Singh (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;“Adventures in porting a UI framework from Haskell to Rust, part 1 - the virtual dom” by Anupam Jain (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;Networking + Food (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning Talks. Choose to give a short talk on the spot. (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;Hiring and Pitching. Open to anyone hiring for a Rust role, looking for a Rust role, or otherwise. (00:20)&lt;&#x2F;li&gt;
+&lt;li&gt;Finding Our Logo with Ishaan Arora (00:20)&lt;&#x2F;li&gt;
+&lt;li&gt;Volunteering for Rust Delhi (00:10)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Thank you to all the attendees for making this event a success. For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;293908211&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
