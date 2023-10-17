@@ -11,7 +11,7 @@ theme = "ataraxia"
 # To find a detailed description of the following configuration variables
 # you can go to https://www.getzola.org/documentation/getting-started/configuration/
 
-output_dir = "docs"
+output_dir = "public"
 
 build_search_index = true
 generate_feed = true
