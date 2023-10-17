@@ -50,7 +50,7 @@ hard_link_static = false
         author_link = "https://rustdelhi.in/"
         twitter = "@rustdelhi"
         links = [
-            { name = "Telegram", url = "https://github.com/rustdelhi", icon = "bi-telegram" },
+            { name = "Telegram", url = "https://t.me/RustDelhi", icon = "bi-telegram" },
             { name = "GitHub", url = "https://github.com/rustdelhi", icon = "bi-github" },
             { name = "Twitter", url = "https://twitter.com/rustdelhi", icon = "bi-twitter" },
             { name = "LinkedIn", url = "https://www.linkedin.com/company/rustdelhi/", icon = "bi-linkedin" },
