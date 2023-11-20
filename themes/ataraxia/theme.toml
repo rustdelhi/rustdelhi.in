@@ -1,0 +1,14 @@
+name = "ataraxia"
+description = "A personal theme focused on ease of reading."
+license = "MPL-2.0"
+homepage = "https://github.com/gersonbenavides/ataraxia-zola"
+min_version = "0.16.0"
+demo = "https://www.gersonb.dev/"
+
+
+[extra]
+
+
+[author]
+name = "Gerson Benavides"
+homepage = "https://github.com/gersonbenavides/ataraxia-zola"

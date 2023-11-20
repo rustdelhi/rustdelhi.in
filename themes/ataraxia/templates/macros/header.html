@@ -1,0 +1,34 @@
+{% import "macros/utilities/menus.html" as menus %}
+
+
+{%- macro header(page, type) -%}
+  <nav
+    class="navbar navbar-expand navbar-bg-light sticky-top border-bottom"
+  >
+    <div class="container-fluid">
+      {%- if type == "page" -%}
+        {%- set offcanvas_btn_class = "d-block d-lg-none"  -%}
+      {%- else -%}
+        {%- set offcanvas_btn_class = "d-block d-xl-none"  -%}
+      {%- endif -%}
+      <button
+        type="button"
+        class="btn {{ offcanvas_btn_class | safe }} fs-5"
+        data-bs-toggle="offcanvas" data-bs-target="#offcanvas"
+        aria-controls="offcanvas"
+      >
+        <span class="bi bi-list"></span>
+      </button>
+      
+      <div class="col-8">
+        {% if page == "null" %}
+          {{ menus::simple_top_bar_nav(type = type) }}
+        {% else %}
+          {{ menus::top_bar_nav(page = page, type = type) }}
+        {% endif %}
+      </div>
+
+      {{ search::search_btn() }}
+    </div>
+  </nav>
+{%- endmacro header -%}
