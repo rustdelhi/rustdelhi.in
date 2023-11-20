@@ -1,0 +1,18 @@
+<div class="card {% if class %}{{ class | safe }}{% endif %}">
+  
+  {% if title %}
+    <{{ heading | safe }} class="card-header">
+      {{ title | safe }}
+    </{{ heading | safe }}>
+  {% endif %}
+  <div class="card-body">
+    <p class="card-text">
+      {{ content | safe }}
+    </p>
+  </div>
+  {% if footer %}
+    <div class="card-footer text-muted">
+      {{ footer | safe }}
+    </div>
+  {% endif %}
+</div>
