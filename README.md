@@ -10,6 +10,13 @@ Delhi/NCR.
 
 > [!IMPORTANT]
 > This is an Unofficial group and is not endorsed by The Rust foundation.
+>
+
+## How to Contribute
+
+We welcome contributions from the community! If you have any ideas,
+improvements, or bug fixes, please submit a pull request. You can also report
+issues or request features through our GitHub repository.
 
 ## Getting Started Locally
 
@@ -57,11 +64,21 @@ to:
 
 [http://127.0.0.1:1111](http://127.0.0.1:1111)
 
+## Changing theme color pallet
+
+If you want to edit theme's style i.e color pallet then edit the respective files in `static/assets/scss/` directory!
+
+To view your changes you'll need to have a [Node.js](https://nodejs.org/) interpreter and a [Sass compiler](https://sass-lang.com/install) installed.
+
+After that, execute following commands from the root of the the repo:
+
+```bash
+npm install
+```
+
+```bash
+sass --watch static/assets/scss/custom.scss:static/assets/css/custom.css
+```
+
 Enjoy exploring and working with the Rust Delhi community website locally! Feel
 free to contribute, make changes, or test new features as needed.
-
-## How to Contribute
-
-We welcome contributions from the community! If you have any ideas,
-improvements, or bug fixes, please submit a pull request. You can also report
-issues or request features through our GitHub repository.
