@@ -4,21 +4,34 @@ Welcome to Rust Delhi's Community Page!
 
 ## Overview
 
-Rust Delhi is a community of people interested in learning and discussing about The Rust Programming Language and applications/libraries built using it in Delhi/NCR.
+Rust Delhi is a community of people interested in learning and discussing about
+The Rust Programming Language and applications/libraries built using it in
+Delhi/NCR.
 
-> **NOTE:** This is an Unofficial group and is not endorsed by The Rust foundation.
+> [!IMPORTANT]
+> This is an Unofficial group and is not endorsed by The Rust foundation.
+>
+
+## How to Contribute
+
+We welcome contributions from the community! If you have any ideas,
+improvements, or bug fixes, please submit a pull request. You can also report
+issues or request features through our GitHub repository.
 
 ## Getting Started Locally
 
-If you'd like to run the website locally for development or testing, follow these steps:
+If you'd like to run the website locally for development or testing, follow
+these steps:
 
 ### Prerequisites
 
-Make sure you have [Zola Static Site Generator (SSG)](https://getzola.org/) installed on your system.
+Make sure you have [Zola Static Site Generator (SSG)](https://getzola.org/)
+installed on your system.
 
 ### Clone the Repository
 
-You can clone the repository using either SSH or HTTPS, depending on your GitHub connection setup. Use one of the following commands:
+You can clone the repository using either SSH or HTTPS, depending on your GitHub
+connection setup. Use one of the following commands:
 
 ```bash
 # Clone with SSH
@@ -46,12 +59,26 @@ zola serve
 
 ### Access the Local Website
 
-Once the server is up and running, open your favorite web browser and navigate to:
+Once the server is up and running, open your favorite web browser and navigate
+to:
 
 [http://127.0.0.1:1111](http://127.0.0.1:1111)
 
-Enjoy exploring and working with the Rust Delhi community website locally! Feel free to contribute, make changes, or test new features as needed.
+## Changing theme color pallet
 
-## How to Contribute
+If you want to edit theme's style i.e color pallet then edit the respective files in `static/assets/scss/` directory!
 
-We welcome contributions from the community! If you have any ideas, improvements, or bug fixes, please submit a pull request. You can also report issues or request features through our GitHub repository.
+To view your changes you'll need to have a [Node.js](https://nodejs.org/) interpreter and a [Sass compiler](https://sass-lang.com/install) installed.
+
+After that, execute following commands from the root of the the repo:
+
+```bash
+npm install
+```
+
+```bash
+sass --watch static/assets/scss/custom.scss:static/assets/css/custom.css
+```
+
+Enjoy exploring and working with the Rust Delhi community website locally! Feel
+free to contribute, make changes, or test new features as needed.

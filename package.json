@@ -1,0 +1,12 @@
+{
+  "name": "rustdelhi",
+  "description": "Official website of rustdehi.in",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustdehi/rustdehi.github.io.git"
+  },
+  "author": "Rustdelhi",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
