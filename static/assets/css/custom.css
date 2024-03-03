@@ -11984,4 +11984,12 @@ a:hover {
   background-color: #cb5f3b;
 }
 
+.text-muted {
+  color: #c2c3c5 !important;
+}
+
+.heading {
+  color: #cb5f3b;
+}
+
 /*# sourceMappingURL=custom.css.map */
