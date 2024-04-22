@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>RustDelhi</title>
+    <link href="https://rustdelhi.in/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://rustdelhi.in"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-22T00:00:00+00:00</updated>
+    <id>https://rustdelhi.in/atom.xml</id>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#6</title>
+        <published>2024-04-22T00:00:00+00:00</published>
+        <updated>2024-04-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20240330/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20240330/</id>
+        
+        <content type="html">&lt;p&gt;Rust Delhi brings you another meetup, this time at Avanta, Statesman House, Connaught Place with our event sponsor Rust Foundation. Held on Saturday, 30th March, A meetup centered around Rust and its ecosystem.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Intro&#x2F;Ice breaking&lt;&#x2F;li&gt;
+&lt;li&gt;Rust 101 by Guinnes&lt;&#x2F;li&gt;
+&lt;li&gt;Don&#x27;t Block, Just Flow: Embracing Asynchronous with Rust Streams by Prabhat&lt;&#x2F;li&gt;
+&lt;li&gt;Lunch&#x2F;Networking&lt;&#x2F;li&gt;
+&lt;li&gt;Quiz&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning Talks&lt;&#x2F;li&gt;
+&lt;li&gt;Hiring&#x2F;Pitching session&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;gallery&quot;&gt;Gallery&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gswebspace&quot;&gt;Guinnes&lt;&#x2F;a&gt; talking about Rust&#x27;s Ownership
+        &lt;br&#x2F;&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;1.JPG&quot;&gt;
+            &lt;img src=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;1.JPG&quot; width=&quot;300px&quot; &#x2F;&gt;
+        &lt;&#x2F;a&gt;
+        &lt;br&#x2F;&gt;&lt;br&#x2F;&gt;
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;artech-git&quot;&gt;Prabhat&lt;&#x2F;a&gt; presenting Asynchronous Streams in Rust
+        &lt;br&#x2F;&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;2.JPG&quot;&gt;
+            &lt;img src=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;2.JPG&quot; width=&quot;300px&quot; &#x2F;&gt;
+        &lt;&#x2F;a&gt;
+        &lt;br&#x2F;&gt;&lt;br&#x2F;&gt;
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;pulsar17&quot;&gt;Ishaan&#x27;s&lt;&#x2F;a&gt; lightning talk on Text&#x2F;Unicode in Rust strings
+        &lt;br&#x2F;&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;3.JPG&quot;&gt;
+            &lt;img src=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;3.JPG&quot; width=&quot;300px&quot; &#x2F;&gt;
+        &lt;&#x2F;a&gt;
+        &lt;br&#x2F;&gt;&lt;br&#x2F;&gt;
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Group Photo with all Attendees
+        &lt;br&#x2F;&gt;
+        &lt;a href=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;4.JPG&quot;&gt;
+            &lt;img src=&quot;&#x2F;images&#x2F;meetup&#x2F;meetup6&#x2F;4.JPG&quot; width=&quot;300px&quot; &#x2F;&gt;
+        &lt;&#x2F;a&gt;
+        &lt;br&#x2F;&gt;&lt;br&#x2F;&gt;
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Thank you to all the attendees for making this event a success. For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;299771772&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#5</title>
+        <published>2024-02-17T00:00:00+00:00</published>
+        <updated>2024-02-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20240217/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20240217/</id>
+        
+        <content type="html">&lt;p&gt;Rust Delhi brings you another meetup, this time at Research and Innovation Park, IIT, Delhi. Join us this Saturday, February the 17th&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;11:00 - 11:20 -&amp;gt; Ice breaking&#x2F;Intro&lt;&#x2F;li&gt;
+&lt;li&gt;11:20 - 11:55 -&amp;gt; Moving Mouse via Tokio by Abhishek&lt;&#x2F;li&gt;
+&lt;li&gt;11:55 - 12:30 -&amp;gt; Functional Rust by Tanveer&lt;&#x2F;li&gt;
+&lt;li&gt;12:30 - 01:05 -&amp;gt; Don&#x27;t Block, Just Flow: Embracing Asynchronous with Rust Streams by Prabhat&lt;&#x2F;li&gt;
+&lt;li&gt;01:05 - 01:45 -&amp;gt; Lunch&#x2F;Networking&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;298864671&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#4</title>
+        <published>2023-12-16T00:00:00+00:00</published>
+        <updated>2023-12-16T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20231216/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20231216/</id>
+        
+        <content type="html">&lt;p&gt;Rust Delhi brings you another meetup, this time at Amigo Coworking Spaces in Noida sector 8. Join us on Saturday, 16th December for a meetup centered around Rust and it&#x27;s ecosystem.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Hyperswitch - An open payments switch by Narayan Bhat&lt;&#x2F;li&gt;
+&lt;li&gt;Soy dev&#x27;s first foray into Rust By Manik Rana&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;For more details, please visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;297652586&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#3</title>
+        <published>2023-10-14T00:00:00+00:00</published>
+        <updated>2023-10-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20231014/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20231014/</id>
+        
+        <content type="html">&lt;p&gt;Rust Delhi brings you another meetup, this time at &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cic.du.ac.in&#x2F;&quot;&gt;Cluster Innovation Center, Delhi University.&lt;&#x2F;a&gt; Join us this Saturday, October the 14th for a meetup centered around Rust and it&#x27;s ecosystem.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Introductions&lt;&#x2F;li&gt;
+&lt;li&gt;Rust 201 by Guinnes Singh&lt;&#x2F;li&gt;
+&lt;li&gt;Serde: Usage patterns and Internals By Mihir&lt;&#x2F;li&gt;
+&lt;li&gt;Drawing Ferris 🦀 with Inkscape by Ishaan&lt;&#x2F;li&gt;
+&lt;li&gt;On-the-spot lightning talks, show-and-tell sessions. Open to all&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Thank you to all the attendees for making this event a success. For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;296654653&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#2</title>
+        <published>2023-08-26T00:00:00+00:00</published>
+        <updated>2023-08-26T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20230826/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20230826/</id>
+        
+        <content type="html">&lt;p&gt;Rust Delhi and FPIndia collaborated to bring you an exciting meetup centered around Concurrency Patterns. The event took place on August 26, 2023, and it was a great opportunity to explore concurrency in Rust and functional programming.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda:&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Introductions&lt;&#x2F;li&gt;
+&lt;li&gt;Overview of Concurrency in Rust by Guinnes Singh&lt;&#x2F;li&gt;
+&lt;li&gt;Smart Pointers by Priyanshu Verma&lt;&#x2F;li&gt;
+&lt;li&gt;Many Ways to Concur by Abhinav Sarkar&lt;&#x2F;li&gt;
+&lt;li&gt;Concurrency in Haskell by Anupam Jain&lt;&#x2F;li&gt;
+&lt;li&gt;Break &#x2F; Networking&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Thank you to all the attendees for making this event a success. For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;295486853&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>rust::delhi</title>
+        <published>2023-06-10T00:00:00+00:00</published>
+        <updated>2023-06-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/blog/20230610/" type="text/html"/>
+        <id>https://rustdelhi.in/blog/20230610/</id>
+        
+        <content type="html">&lt;p&gt;To post blogs on Rustdelhi.in please feel free to create a pull request over &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustdelhi&#x2F;rustdelhi.github.io&quot;&gt;github.com&#x2F;rustdelhi&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RustDelhi Meetup#1</title>
+        <published>2023-06-10T00:00:00+00:00</published>
+        <updated>2023-06-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://rustdelhi.in/events/20230610/" type="text/html"/>
+        <id>https://rustdelhi.in/events/20230610/</id>
+        
+        <content type="html">&lt;p&gt;Hi folks, Rust Delhi hosted Delhi&#x27;s first Rust meetup on Saturday, June 10, 2023. It was a fantastic event that brought together Rust enthusiasts to share their experiences and discuss the future of the Rust Delhi community.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;event-agenda&quot;&gt;Event Agenda:&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Kickstarting Rust Delhi (00:10)&lt;&#x2F;li&gt;
+&lt;li&gt;Introductions, Rust Stories and Why Rust (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;“Rust 101” by Guinnes Singh (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;“Adventures in porting a UI framework from Haskell to Rust, part 1 - the virtual dom” by Anupam Jain (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;Networking + Food (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning Talks. Choose to give a short talk on the spot. (00:30)&lt;&#x2F;li&gt;
+&lt;li&gt;Hiring and Pitching. Open to anyone hiring for a Rust role, looking for a Rust role, or otherwise. (00:20)&lt;&#x2F;li&gt;
+&lt;li&gt;Finding Our Logo with Ishaan Arora (00:20)&lt;&#x2F;li&gt;
+&lt;li&gt;Volunteering for Rust Delhi (00:10)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Thank you to all the attendees for making this event a success. For more details, you can visit the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rustdelhi&#x2F;events&#x2F;293908211&#x2F;&quot;&gt;Meetup event page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
