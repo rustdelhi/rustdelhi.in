@@ -1,0 +1,12 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Redirect</title>
+<script>
+  const target = "https://rustdelhi.in/events/";
+  const hash = window.location.hash || "";
+  window.location.replace(target + hash);
+</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url=https://rustdelhi.in/events/">
+</noscript>
+<p><a href="https://rustdelhi.in/events/">Click here</a> to be redirected.</p>

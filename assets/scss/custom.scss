@@ -1,0 +1,202 @@
+@import "colors/open-color.scss";
+
+$font-family-base: 'Montserrat', sans-serif;
+;
+
+$background: #1e1e1e;
+$text-color: #c2c3c5;
+$border-color: #c2c3c5;
+
+$nav-color: #c2c3c5;
+$nav-icon-color: #c2c3c5;
+$nav-icon-hover-color: #cb5f3b;
+
+
+$sidebar-bg: #181818;
+$sidebar-color: #999999;
+$sidebar-title-color: #c2c3c5;
+$sidebar-nav-icon-color: #999999;
+$sidebar-nav-text-color: #c2c3c5;
+$sidebar-social-color: #999999;
+
+$sidebar-bg-hover: #252525;
+$sidebar-color-hover: #c2c3c5;
+$sidebar-nav-color-hover: #c2c3c5;
+
+$search-bg: #181818;
+
+
+$primary: #cb5f3b;
+$secondary: #c2c3c5;
+$tertiary: #ff784b;
+$success: $oc-green-9;
+$info: $oc-cyan-3;
+$warning: $oc-yellow-4;
+$danger: $oc-red-8;
+$light: white;
+$dark: $oc-gray-8;
+
+
+$offcanvas-horizontal-width: 224px;
+
+
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    color: $text-color;
+    background-color: $background;
+}
+
+.modal-content {
+    background-color: $search-bg;
+}
+
+.btn {
+    color: $nav-icon-color;
+}
+
+.btn:hover {
+    color: $nav-icon-hover-color;
+}
+
+.btn-close {
+    background: transparent url(../images/btn-close.svg) center/1em auto no-repeat;
+    ;
+}
+
+
+.border-bottom {
+    border-bottom: var(--bs-border-width) var(--bs-border-style) $border-color !important;
+}
+
+a {
+    color: $primary;
+    text-decoration: none;
+}
+
+a:hover {
+    color: $tertiary;
+    text-decoration: underline;
+}
+
+::selection {
+    color: $light;
+    background: $tertiary;
+}
+
+.sidebar {
+    color: $sidebar-color;
+    background-color: $sidebar-bg;
+
+    a {
+        color: $sidebar-color;
+    }
+
+    a:hover {
+        color: $sidebar-color-hover;
+    }
+
+    .sidebar-avatar {
+        width: 96px;
+        height: 96px;
+        overflow: hidden;
+        border: var(--bs-border-width) var(--bs-border-style) rgba($light, 0) !important;
+        transition: border 0s;
+
+        img:hover {
+            transform: scale(1.25);
+            transition: .5s;
+        }
+    }
+
+    .sidebar-title {
+        color: $sidebar-title-color;
+    }
+
+    .sidebar-nav {
+        background-color: $sidebar-bg;
+
+        .sidebar-nav-item {
+            font-weight: 500;
+            background-color: $sidebar-bg;
+        }
+
+        .sidebar-nav-item:hover {
+            background-color: $sidebar-bg-hover;
+        }
+
+        .sidebar-nav-icon {
+            color: $sidebar-nav-icon-color;
+        }
+
+        .sidebar-nav-text {
+            color: $sidebar-nav-text-color;
+        }
+    }
+
+    .sidebar-social {
+        a {
+            color: $sidebar-social-color;
+        }
+
+        a:hover {
+            color: $sidebar-color-hover;
+        }
+    }
+}
+
+.bg-sidebar {
+    background-color: $sidebar-bg;
+}
+
+
+
+.navbar-bg-light {
+    background-color: #1e1e1e;
+}
+
+.card-bg-light {
+    background-color: #1e1e1e;
+}
+
+
+
+.index-avatar {
+    width: 208px;
+    height: 208px;
+    overflow: hidden;
+    border: var(--bs-border-width) var(--bs-border-style) rgba($light, 0) !important;
+    transition: border 0s;
+
+    img:hover {
+        transform: scale(1.25);
+        transition: .5s;
+    }
+}
+
+.index-avatar:hover,
+.sidebar-avatar:hover {
+    border: var(--bs-border-width) var(--bs-border-style) $light !important;
+    transition: border .5s;
+}
+
+
+.post-img {
+    overflow: hidden;
+}
+
+.navbar {
+    color: $nav-color;
+}
+
+.btn-taxonomy {
+    background-color: #cb5f3b
+}
+
+.text-muted {
+    color: $secondary !important;
+}
+
+.heading {
+    color: $primary;
+}
